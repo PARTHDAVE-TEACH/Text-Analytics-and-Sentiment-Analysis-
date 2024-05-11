@@ -28,3 +28,7 @@ Syllabus end here.
 Resource section [ This is only for enhancement and to learn more. This wont be the part of any exam] 
 
 1. https://github.com/McGill-NLP/mcgill-nlp.github.io
+
+
+----
+Hall of Fame [ Projects]
