@@ -30,6 +30,8 @@ Syllabus end here.
 Resource section [ This is only for enhancement and to learn more. This wont be the part of any exam] 
 
 1. https://github.com/McGill-NLP/mcgill-nlp.github.io
+2. Kaggle all Certification : https://www.kaggle.com/learn
+3. IBM Class Central : https://cognitiveclass.ai/
 
 
 ----
