@@ -5,6 +5,7 @@ Hello All,
 This repository is all about Text Analytics and Sentiment Analysis. My Name is Parth and I am Instructor for this course. 
 This course is span over 14 weeks and consist of 1 mid term and 1 final exam. 
 
+## Request for Course Materials 
 All student of my course needs to request an access to my drive for pre recorded classes , slides and other literatures. 
 
 How to request an access to drive link?
