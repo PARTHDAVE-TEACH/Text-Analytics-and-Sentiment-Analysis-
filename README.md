@@ -47,5 +47,7 @@ Class size -72+ ,
 💎 2 people had research background and had published research paper 
 💼 More than 5 students had background in data related job (Visualization, Analyst)
 
+🤥 Almost everyone pledged not to use chat gpt 
+
 
 
