@@ -37,7 +37,7 @@ Resource section [ This is only for enhancement and to learn more. This wont be 
 ----
 Hall of Fame [ Projects]
 
-##CLASS OF 2024- Spring 
+## CLASS OF 2024- Spring 
 ![image](https://github.com/PARTHDAVE-TEACH/Text-Analytics-and-Sentiment-Analysis-/assets/145209539/a47b73e6-4223-4626-bf78-4fa7a23beb28)
 
 Class size -72+ ,
