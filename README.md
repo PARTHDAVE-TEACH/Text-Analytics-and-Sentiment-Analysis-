@@ -37,6 +37,15 @@ Resource section [ This is only for enhancement and to learn more. This wont be 
 ----
 Hall of Fame [ Projects]
 
-##CLASS OF 2023- Spring 
+##CLASS OF 2024- Spring 
 ![image](https://github.com/PARTHDAVE-TEACH/Text-Analytics-and-Sentiment-Analysis-/assets/145209539/a47b73e6-4223-4626-bf78-4fa7a23beb28)
+
+Class size -72+ ,
+🔨 out of which atleast 9 people had engineering background 
+📈 8 had Maths background 
+💸 atleast 3 people is pursuing this course with full time job
+💎 2 people had research background and had published research paper 
+💼 More than 5 students had background in data related job (Visualization, Analyst)
+
+
 
