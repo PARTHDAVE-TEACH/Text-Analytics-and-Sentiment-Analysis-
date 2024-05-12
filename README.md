@@ -33,7 +33,10 @@ Resource section [ This is only for enhancement and to learn more. This wont be 
 2. Kaggle all Certification : https://www.kaggle.com/learn
 3. IBM Class Central : https://cognitiveclass.ai/
 
-
+---
+Jobs
+## Week 01 
+https://jobs.rbc.com/ca/en/job/R-0000086759?rx_a=0&rx_c=&rx_ch=jobp4p&rx_group=300081&rx_job=R-0000086759&rx_medium=cpc&rx_r=none&rx_source=indeed&rx_ts=20240512T140802Z&rx_vp=cpc&source=APPLICANT_SOURCE_INDEEDORGANIC&utm_medium=cpc&utm_source=indeedorganic&utm_source=indeed&utm_medium=organic_job&jobPipeline=Indeed&rx_p=APG5IDGXLR&rx_viewer=28e374f5da7811ee812ec3b27424f0c9b3757b52a74d4532a17fe32acf4feb0c
 ----
 Hall of Fame [ Projects]
 
