@@ -18,7 +18,10 @@ Request will be entertain only if you provide student id. If anyone wants to acc
 
 
 
+Pre Requisite Machine Learning  
 
+Machine learning -01 
+Machine learning -02
 
 
 
