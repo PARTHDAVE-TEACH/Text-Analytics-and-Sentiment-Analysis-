@@ -20,8 +20,8 @@ Request will be entertain only if you provide student id. If anyone wants to acc
 
 Pre Requisite Machine Learning  
 
-Machine learning -01 
-Machine learning -02
+Machine learning -01  [Here](https://github.com/PARTHDAVE-TEACH/Text-Analytics-and-Sentiment-Analysis-/blob/main/ML%20-01.pdf)
+Machine learning -02  [Here](https://github.com/PARTHDAVE-TEACH/Text-Analytics-and-Sentiment-Analysis-/blob/main/2.%20Regression%20ML%20.pdf)
 
 
 
